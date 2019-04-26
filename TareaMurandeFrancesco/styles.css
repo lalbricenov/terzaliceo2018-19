@@ -1,0 +1,25 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+    border: dashed;
+    border-width: 10px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+}
+h2
+{
+    font-family: 'Courier New', Courier, monospace;
+    color: yellowgreen;
+    border: solid ;
+}
+p{
+    border:dotted salmon;
+}
+body{
+    font-family:'Lucida Sans' green , 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: goldenrod;
+    border: solid ;
+}
